@@ -13,7 +13,7 @@
   </style>
 </head>
 <body>
-<h3>Simple Storage dApp 예제 ㅇㅇㅇ</h3>
+<h3>Simple Storage dApp 예제 차 훈</h3>
 <ul>
   <li>컨트랙트 주소: <span id="contractAddr"></span></li>
   <li>내 어카운트 주소: <span id="accountAddr"></span></li>
@@ -24,7 +24,7 @@
   <li>새 값을 저장한 후 팬딩 트랜잭션이 블록에 포함되면 자동으로 페이지가 업데이트될 것입니다.</li>
 </ul>
 
-컨트랙트 소스 
+컨트랙트 소스
 <script src="https://gist.github.com/atomrigs/7c633570496b79623bed5d1286f93f3a.js"></script>
 
 HTML 소스<br>
