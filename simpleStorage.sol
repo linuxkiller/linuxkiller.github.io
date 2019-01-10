@@ -13,15 +13,7 @@
   </style>
 </head>
 <body>
-<<<<<<< HEAD
-<<<<<<< HEAD
 <h3>Simple Storage dApp 예제 차 훈</h3>
-=======
-<h3>Simple Storage dApp 예제 ㅇㅇㅇ</h3>
->>>>>>> da3a3480e8f29f860fd781badd1c8c844dad7a39
-=======
-<h3>Simple Storage dApp 예제</h3>
->>>>>>> parent of 25f2683... Update simpleStorage.sol
 <ul>
   <li>컨트랙트 주소: <span id="contractAddr"></span></li>
   <li>내 어카운트 주소: <span id="accountAddr"></span></li>
